@@ -25,8 +25,8 @@ A real-time object detection and tracking application using YOLOv8, OpenCV, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alihassanml/YOLOv8-ObjectTracker.git
-   cd YOLOv8-ObjectTracker
+   git clone https://github.com/Amanrawat17/YOLO_OBJECT-DETECTION.git
+   cd YOLO-OBJECT-DETECTION
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
