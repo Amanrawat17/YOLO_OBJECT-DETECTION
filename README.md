@@ -1,4 +1,4 @@
-# YOLOv8-ObjectTracker
+# YOLO_OBJECT-DETECTION
 
 A real-time object detection and tracking application using YOLOv8, OpenCV, and CVZone. This project detects objects from a video feed or webcam and draws bounding boxes with confidence scores around the detected objects.
 
